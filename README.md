@@ -1,1 +1,1 @@
-# MODIS_LST_preprocessing
+# MODIS_LST_postprocessing
